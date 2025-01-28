@@ -14,7 +14,8 @@ import UpcomingProjects from './Components/UpcomingProjects';
 import VerticalTimeline from './Components/Timeline';
 import Carousel from './Components/Carousel';
 import Hero from './Components/Hero';
-import Footer from "./Components/Footer"
+import Footer from "./Components/Footer";
+import Chatbot from "./Components/Chatbot"
 
 
 const Homepage = () => {
@@ -31,6 +32,9 @@ const Homepage = () => {
 
       <div>
         <Carousel />
+      </div>
+      <div>
+        <Chatbot />
       </div>
     </div>
   );
