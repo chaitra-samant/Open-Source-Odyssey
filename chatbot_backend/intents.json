@@ -1,0 +1,119 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey :-) Welcome to Project X VJTI!",
+        "Hello, thanks for visiting Project X VJTI!",
+        "Hi there, how can we help you today?",
+        "Hi! How can Project X assist you?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "See you later",
+        "Goodbye"
+      ],
+      "responses": [
+        "See you later, thanks for visiting!",
+        "Have a nice day, and come back soon!",
+        "Goodbye! Stay awesome!"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "That's helpful",
+        "Thank's a lot!"
+      ],
+      "responses": [
+        "You're welcome! Happy to assist!",
+        "Anytime! Project X is here to help.",
+        "My pleasure! Let us know if you need anything else."
+      ]
+    },
+    {
+      "tag": "about_project_x",
+      "patterns": [
+        "What is Project X?",
+        "Tell me about Project X VJTI",
+        "What does Project X do?"
+      ],
+      "responses": [
+        "Project X is an innovation-driven club at VJTI, Mumbai. We focus on bringing together students interested in technology and creativity.",
+        "Project X VJTI is dedicated to building and showcasing innovative projects and ideas. We promote collaboration and learning through workshops and events."
+      ]
+    },
+    {
+      "tag": "events",
+      "patterns": [
+        "What events does Project X organize?",
+        "Tell me about upcoming events",
+        "What events are happening at Project X?"
+      ],
+      "responses": [
+        "Project X regularly organizes workshops, hackathons, and tech talks. Check out our website and social media for the latest updates.",
+        "We host various events throughout the year including hackathons, coding challenges, and workshops on emerging technologies."
+      ]
+    },
+    {
+      "tag": "social_media",
+      "patterns": [
+        "Where can I follow Project X?",
+        "Give me the social media links",
+        "How can I stay updated about Project X?"
+      ],
+      "responses": [
+        "You can follow Project X VJTI on: \nInstagram: [@x_vjti](https://www.instagram.com/x_vjti/)\nLinkedIn: [Project X VJTI](https://www.linkedin.com/company/project-x-vjti)\nGitHub: [ProjectX-VJTI](https://github.com/ProjectX-VJTI)"
+      ]
+    },
+    {
+      "tag": "join_project_x",
+      "patterns": [
+        "How can I join Project X?",
+        "Can I become a member of Project X?",
+        "How do I participate in Project X?"
+      ],
+      "responses": [
+        "To become a member, keep an eye on our social media for announcements about proposals or reach out to us directly for more information.",
+        "Stay tuned for announcements on social media for the latest updates on how to join Project X."
+      ]
+    },
+    {
+      "tag": "team_members",
+      "patterns": [
+        "Who are the members of Project X?",
+        "Tell me about the team",
+        "Who is part of Project X VJTI?"
+      ],
+      "responses": [
+        "Project X is made up of a diverse team of passionate students from VJTI, working together to bring innovative ideas to life.",
+        "Our team consists of talented individuals who specialize in coding, design, event management, and more. Feel free to connect with us on social media!"
+      ]
+    },
+    {
+      "tag": "funny",
+      "patterns": [
+        "Tell me a joke!",
+        "Tell me something funny!",
+        "Do you know a joke?"
+      ],
+      "responses": [
+        "Why did the coder go broke? Because he used up all his cache.",
+        "Why do programmers prefer dark mode? Because light attracts bugs!"
+      ]
+    }
+  ]
+}
